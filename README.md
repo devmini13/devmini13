@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Devmini Anthony 👋 </h1>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.shutterstock.com/image-vector/happy-girl-laptop-online-coding-course-1982055719" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300&vertical=top" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
   
