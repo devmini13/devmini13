@@ -10,6 +10,7 @@
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Exploring & learning new technologies.  
 </div> 
+</div>
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
