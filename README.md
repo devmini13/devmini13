@@ -18,7 +18,7 @@
   <p>
 </div> 
 
-<h3> 💻 Languages and Tools </h3>
+<h3> 📫 How to reach me </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devmini-anthony-61655b217/)
 
