@@ -18,4 +18,8 @@
   <p>
 </div> 
 
+<h3>  📫 How To Reach Me </h3>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.devminianthony13@gmail.com)
+<a href="www.linkedin.com/in/devmini-anthony-61655b217" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 ⭐️ From [devmini13](https://github.com/devmini13)
