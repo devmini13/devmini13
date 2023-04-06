@@ -18,5 +18,10 @@
   <p>
 </div> 
 
+<h3> 💻 Languages and Tools </h3>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
+</br>
  
 ⭐️ From [devmini13](https://github.com/devmini13)
