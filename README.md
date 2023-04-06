@@ -18,6 +18,15 @@
   <p>
 </div> 
 
+<h3> 😍 What i like to do :- </h3>
+
+- ⚡I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+
+<h3> 🛠 Interested in :- </h3>
+
+- 💡 Desktop, mobile, fronted, devOps, games, designer.
+
+
 <h3> 📫 How to reach me :- </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devmini-anthony-61655b217/)
