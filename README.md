@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Devmini Anthony 👋 </h1>
 
-<img src="https://media.giphy.com/media/EObi5EB9PNhBIIgyrs/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/EObi5EB9PNhBIIgyrs/giphy.gif" width="80">
 
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
