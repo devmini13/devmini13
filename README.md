@@ -12,7 +12,7 @@
 </div> 
 </div>
 
-<h3> 😍 What i like to do :- </h3>
+<h3> 😍 What I like to do :- </h3>
 
 - ⚡ I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
