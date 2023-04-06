@@ -20,11 +20,11 @@
 
 <h3> 😍 What i like to do :- </h3>
 
-- ⚡I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+-⚡ I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
 
 <h3> 🛠 Interested in :- </h3>
 
-- 💡 Desktop, mobile, fronted, devOps, games, designer.
+-💡  Desktop, mobile, fronted, devOps, games, designer.
 
 
 <h3> 📫 How to reach me :- </h3>
